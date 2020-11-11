@@ -1,0 +1,6 @@
+[
+{"firstName":"TXT_ONE","lastName":"Tal","age":50},
+{"firstName":"TXT_TWO","lastName":"Kashbi","age":60},
+{"firstName":"TXT_THREE","lastName":"Cohen","age":70},
+{"firstName":"TXT_FOUR","lastName":"Levi","age":80}
+]
